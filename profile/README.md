@@ -3,6 +3,9 @@
 [Explore Our Flagship Product: @FlockrushGrid](https://github.com/FlockrushGrid)
 
 ---
+![flockrush-og](https://github.com/user-attachments/assets/49a9910e-0bc5-4365-a952-8d19620e99c4)
+---
+
 This is the home of Flockrush, the research organization and "Policy Mesh" behind the Flockrush Grid—the world's first Autonomous-First, AI-Native Business OS.
 
 Our mission is to build the foundational architecture for the autonomous economy. We believe the future is not "AI-assisted" and not "Human-in-the-Loop." It is Autonomous-First, governed by Human-on-the-Loop policy.
